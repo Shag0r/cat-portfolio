@@ -10,6 +10,10 @@ h1{
     color: hotpink;
     font-size: 75px;
 }
+.sub-line{
+    color:greenyellow;
+    font-size: 30px;
+}
 .flex-era{
     display: flex;
     margin-bottom: 50px;
@@ -38,4 +42,30 @@ h1{
     background-repeat: no-repeat;
     background-position: bottom;
 
+}
+.exp-itm{
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 10px;
+    background-color: lightgoldenrodyellow;
+    border-radius: 20px;
+    box-shadow: 20px 20px 50px lightpink;
+}
+.exp{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#hobby{
+    border-left: 8px solid;
+    border-radius: 10px;
+    border-image: linear-gradient(#870000,#190a05);
+    border-image-slice: 1;
+}
+#future{
+    border-left: 7px solid;
+    border-image: linear-gradient(#870000,#190a05) ;
+    border-radius: 10px;
+    border-image-slice: 2;
 }

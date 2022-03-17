@@ -69,3 +69,7 @@ h1{
     border-radius: 10px;
     border-image-slice: 2;
 }
+footer p{
+    text-align: center;
+    color: red;
+}

@@ -73,8 +73,9 @@ footer p{
     text-align: center;
     color: red;
 }
-.pritty{
+#pritty{
     color: hotpink;
     font-weight: 700;
     font-size: 50px;
+    text-align: center;
 }
